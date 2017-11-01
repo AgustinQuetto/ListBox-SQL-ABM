@@ -1,0 +1,12 @@
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\bin\Debug\ABM.exe.config
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\bin\Debug\ABM.exe
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\bin\Debug\ABM.pdb
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\bin\Debug\Entidades.dll
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\bin\Debug\Entidades.pdb
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\obj\Debug\ABM.csprojResolveAssemblyReference.cache
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\obj\Debug\ABM.Form1.resources
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\obj\Debug\ABM.Properties.Resources.resources
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\obj\Debug\ABM.csproj.GenerateResource.Cache
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\obj\Debug\ABM.exe
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\obj\Debug\ABM.pdb
+D:\Program-y-lab-master\Martes 31-10-17\Ejerc_1\ABM\obj\Debug\ABM.Agregar.resources
